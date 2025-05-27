@@ -10,3 +10,10 @@
 #define wind_vane 0
 volatile int cup_count = 0;
 ```
+
+###### Task lisk
+
+- [x] Add an image
+- [x] Add code example
+- [x] Add task list
+- [ ] What's next?
